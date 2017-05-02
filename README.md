@@ -1,0 +1,1 @@
+This project is a hands-on experience in Web technologies (HTML, CSS), Web programming (JavaScript, PHP) and data management (MySQL) software tools. This web pages are a sum of layers—structure, data, design, content, and functionality.
